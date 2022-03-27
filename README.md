@@ -5,3 +5,4 @@
 - 2022/02/11: Dragon Ball Z 2/Dragon Ball Z: Budokai 2
 - 2022/02/25: Dragon Ball Z 3/Dragon Ball Z: Budokai 3
 - 2022/03/11: 赤ずきんチャチャ/Akazukin Chacha (GB)
+- 2022/03/26: 大工の源さん ゴーストビルディングカンパニー/Hammerin Harry: Ghost Breeding Company
