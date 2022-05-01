@@ -7,4 +7,4 @@
 - 2022/03/11: 赤ずきんチャチャ/Akazukin Chacha (GB)
 - 2022/03/26: 大工の源さん ゴーストビルディングカンパニー/Hammerin Harry: Ghost Breeding Company
 - 2022/04/09: Bomberman Fantasy Race
-- 
+- 2022/05/01: 北斗無双: International/Fist of the North Star: Ken's Rage
