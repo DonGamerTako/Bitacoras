@@ -8,4 +8,5 @@
 - 2022/03/26: 大工の源さん ゴーストビルディングカンパニー/Hammerin Harry: Ghost Breeding Company
 - 2022/04/09: Bomberman Fantasy Race
 - 2022/05/01: 北斗無双: International/Fist of the North Star: Ken's Rage
-- 2022/05/12: 北斗の拳: 世紀末 救世主 伝説
+- 2022/05/12: 北斗の拳: 世紀末 救世主 伝説/Hokuto no Ken: Seikimatsu Kyuuseishu Densetsu
+- 2022/05/21: Bleach: ヒート ザ ソウル/Bleach: Heat the Soul
